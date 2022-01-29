@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "195221601924",
+    "project_id": "electronics-a29ad",
+    "storage_bucket": "electronics-a29ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195221601924:android:cc6bbf9e50e09277f10cd1",
+        "android_client_info": {
+          "package_name": "com.example.electronics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195221601924-n8hs9i4h0fch1k0m9ufiqj9hfnqi2fdh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHiBO8ml_GHxZ7JGTPahouUXYYvXQCAGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195221601924-n8hs9i4h0fch1k0m9ufiqj9hfnqi2fdh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
